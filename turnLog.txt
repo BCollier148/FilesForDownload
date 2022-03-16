@@ -1,0 +1,65 @@
+"Date","Player","TurnLength","TurnLimit","Skipped?"
+"3/04/2022","La reina de las naranjas",6,10,FALSE
+"3/04/2022","Ghostbloods",1,10,FALSE
+"3/04/2022","Twin Tarragon",2,10,FALSE
+"3/04/2022","Pride and Joy",7,10,FALSE
+"3/04/2022","Orange County Authority",1,10,FALSE
+"3/04/2022","County Guard",6,10,FALSE
+"3/04/2022","DToML",1,10,FALSE
+"3/04/2022","Los Vatos Patos",1,10,FALSE
+"3/04/2022","Death Blades",1,10,FALSE
+"3/04/2022","La reina de las naranjas",2,10,FALSE
+"3/04/2022","Ghostbloods",2,10,FALSE
+"3/04/2022","Twin Tarragon",2,10,FALSE
+"3/04/2022","Pride and Joy",10,10,FALSE
+"3/04/2022","Orange County Authority",1,10,FALSE
+"3/04/2022","County Guard",4,10,FALSE
+"3/04/2022","DToML",3,10,FALSE
+"3/04/2022","Los Vatos Patos",1,10,FALSE
+"3/04/2022","La reina de las naranjas",1,10,FALSE
+"3/04/2022","Ghostbloods",1,10,FALSE
+"3/04/2022","Twin Tarragon",1,10,FALSE
+"3/04/2022","Pride and Joy",4,10,FALSE
+"3/04/2022","Orange County Authority",9,10,FALSE
+"3/04/2022","County Guard",3,10,FALSE
+"3/04/2022","Death Blades",3,10,FALSE
+"3/04/2022","DToML",1,10,FALSE
+"3/04/2022","Los Vatos Patos",10,10,FALSE
+"3/04/2022","Death Blades",7,10,FALSE
+"3/04/2022","La reina de las naranjas",2,10,FALSE
+"3/04/2022","Ghostbloods",1,10,FALSE
+"3/04/2022","Twin Tarragon",4,10,FALSE
+"3/04/2022","Pride and Joy",2,10,FALSE
+"3/04/2022","Orange County Authority",9,10,FALSE
+"3/04/2022","County Guard",10,10,FALSE
+"3/04/2022","DToML",10,10,TRUE
+"3/04/2022","Los Vatos Patos",4,30,FALSE
+"3/04/2022","Death Blades",3,30,FALSE
+"3/04/2022","La reina de las naranjas",3,30,FALSE
+"3/04/2022","Ghostbloods",12,30,FALSE
+"3/04/2022","Twin Tarragon",20,30,FALSE
+"3/04/2022","Pride and Joy",20,60,FALSE
+"3/04/2022","Orange County Authority",60,60,FALSE
+"3/04/2022","County Guard",5,360,FALSE
+"3/05/2022","Death Blades,355,6,360,FALSE
+"3/05/2022","La reina de las naranjas,710,2880,FALSE
+"3/05/2022","Ghostbloods,364,1440,FALSE
+"3/06/2022","Twin Tarragon",1602,1440,TRUE
+"3/06/2022","Pride and Joy",10,1440,FALSE
+"3/06/2022","Orange County Authority",5,1440,FALSE
+"3/07/2022","County Guard",718,1440,FALSE
+"3/07/2022","DToML",128,960,TRUE
+"3/07/2022","Los Vatos Patos",2,960,FALSE
+"3/08/2022","Death Blades",1455,960,TRUE
+"3/08/2022","La reina de las naranjas",166,960,FALSE
+"3/08/2022","Ghostbloods",5,960,FALSE
+"3/09/2022","Twin Tarragon",1157,960,TRUE
+"3/09/2022","Pride and Joy",1754,960,FALSE
+"3/10/2022","Orange County Authority",1402,960,TRUE
+"3/11/2022","County Guard",1185,960,FALSE
+"3/12/2022","DToML",1532,960,TRUE
+"3/12/2022","Los Vatos Patos",32,960,FALSE
+"3/13/2022","Death Blades",1374,960,TRUE
+"3/14/2022","La reina de las naranjas",1648,960,FALSE
+"3/14/2022","Ghostbloods",45,960,FALSE
+"3/15/2022","Twin Tarragon",1508,960,TRUE
