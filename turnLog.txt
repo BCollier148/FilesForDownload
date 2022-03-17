@@ -41,7 +41,7 @@
 "3/04/2022","Pride and Joy",20,60,FALSE
 "3/04/2022","Orange County Authority",60,60,FALSE
 "3/04/2022","County Guard",5,360,FALSE
-"3/05/2022","Death Blades",355,6,360,FALSE
+"3/05/2022","Death Blades",355,360,FALSE
 "3/05/2022","La reina de las naranjas",710,2880,FALSE
 "3/05/2022","Ghostbloods",364,1440,FALSE
 "3/06/2022","Twin Tarragon",1602,1440,TRUE
